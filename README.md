@@ -1,10 +1,10 @@
 # Medical-Image-Analysis-BoundaryLoss
-  project for the class Medical Image Analysis at the MVA master.
+  Project for the Medical Image Analysis class at the MVA master.
 
 ## Authors
 - Program: [MVA Master's degree](https://www.master-mva.com/) class on [Geometric Data Analysis](https://www.jeanfeydy.com/Teaching/index.html). ENS Paris-Saclay.
 - Authors
-    - [Mahmoud Hegazy](https://github.com/ManalAkh)
+    - [Mahmoud Hegazy](https://github.com/mahegz)
     - [Ines Vati](https://github.com/InesVATI)
 
 
