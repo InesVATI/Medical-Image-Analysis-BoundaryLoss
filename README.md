@@ -2,7 +2,7 @@
   Project for the Medical Image Analysis class at the MVA master.
 
 ## Authors
-- Program: [MVA Master's degree](https://www.master-mva.com/) class on [Geometric Data Analysis](https://www.jeanfeydy.com/Teaching/index.html). ENS Paris-Saclay.
+- Program: [MVA Master's degree](https://www.master-mva.com/) class on [Medical Image Analysis based on generative, geometric and biophysical models](http://www-sop.inria.fr/asclepios/cours/MVA/index.htm). ENS Paris-Saclay.
 - Authors
     - [Mahmoud Hegazy](https://github.com/mahegz)
     - [Ines Vati](https://github.com/InesVATI)
